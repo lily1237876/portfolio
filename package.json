@@ -1,0 +1,23 @@
+{
+  "name": "steve-portfolio",
+  "version": "1.0.0",
+  "description": "Steve's portfolio",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview --port 8081",
+    "dev": "vite --port 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
